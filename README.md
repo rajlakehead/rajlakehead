@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! I'm <Raj></h1>
+<h1 align="center">Hello, World! I'm Raj</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Software+Engineer;AI+Enthusiast;Always+Learning" alt="Typing SVG" />
