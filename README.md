@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! I'm <Your Name></h1>
+<h1 align="center">Hello, World! I'm <Raj></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Software+Engineer;AI+Enthusiast;Always+Learning" alt="Typing SVG" />
@@ -9,24 +9,22 @@
 ### 🧑‍💻 About Me:
 
 - 🌍 Based in **Thunder Bay, ON**
-- 🛠️ Currently working as a **Software Developer** at **ABC Technologies**
-- 💻 Working on **[Your Latest Project](#)** using **React, Node.js, GraphQL**
+- 🛠️ Currently working as a **Software Developer** at **Voluntary Nature Conservancy**
 - 🌟 Always excited to learn and explore new technologies in **AI, ML, and Web Development**
 
 ---
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-github/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajlakehead/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/rajlakehead)
 
 ---
 
 ### 🚀 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,mongodb,graphql,docker,aws,python" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,javascript,typescript,mongodb,graphql,docker,aws,python" />
 </p>
 
 ---
@@ -42,7 +40,7 @@
 
 ### 🏆 Achievements:
 
-- 🏅 Solved **400+ DSA** challenges on LeetCode
+- 🏅 Solved **500+ DSA** challenges on LeetCode
 - 🎓 Earned **5-star Python badge** on HackerRank
 - 👨‍💻 Contributed to **open-source** projects across diverse communities
 
@@ -59,7 +57,7 @@
 ### 📬 Want to reach me?
 
 - 💬 Let's talk tech, startups, or your next project idea!
-- 📧 Email me at **your-email@example.com**
+- 📧 Email me at **patelraj24365@gmail.com**
 
 ---
 
