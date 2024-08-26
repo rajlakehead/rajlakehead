@@ -17,7 +17,8 @@
 ### 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajlakehead/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/rajlakehead)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=portfolio)](https://portfolio-six-lyart-38.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-green?style=for-the-badge&logo=github)](https://github.com/rajlakehead)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/RazPatel/)
 
 
