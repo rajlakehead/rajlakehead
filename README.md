@@ -9,7 +9,6 @@
 ### 🧑‍💻 About Me:
 
 - 🌍 Based in **Thunder Bay, ON**
-- 🛠️ Currently working as a **Software Developer** at **Voluntary Nature Conservancy**
 - 🌟 Always excited to learn and explore new technologies in **AI, ML, and Web Development**
 
 ---
