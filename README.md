@@ -8,7 +8,6 @@
 
 ### 🧑‍💻 About Me:
 
-- 🌍 Based in **Thunder Bay, ON**
 - 🌟 Always excited to learn and explore new technologies in **AI, ML, and Web Development**
 
 ---
