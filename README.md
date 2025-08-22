@@ -55,9 +55,11 @@
 
 ---
 
-### 📬 Want to reach me?
-
-- 💬 Let's talk tech, startups, or your next project idea!
-- 📧 Email me at **patelraj24365@gmail.com**
-
----
+## 📫 Contact Me
+<p align="center">
+  <em>Let’s talk tech, AI, or your next startup idea!</em>
+</p>
+<p align="center">
+  <a href="mailto:patelraj24365@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rajlakehead/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
